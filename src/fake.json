@@ -1,0 +1,44 @@
+
+[
+    {
+      "name": "Cookie 1",
+      "type": "Essential",
+      "description": "This is an essential cookie for basic website functionality."
+    },
+    {
+      "name": "Cookie 2",
+      "type": "Performance",
+      "description": "This cookie helps us analyze website performance and usage."
+    },
+    {
+      "name": "Cookie 3",
+      "type": "Analytics",
+      "description": "This cookie is used for website analytics and tracking."
+    },
+    {
+      "name": "Cookie 4",
+      "type": "Marketing",
+      "description": "This cookie is used for marketing and advertising purposes."
+    },
+    {
+        "name": "Cookie 11",
+        "type": "Essential",
+        "description": "This is an essential cookie for basic website functionality."
+      },
+      {
+        "name": "Cookie 12",
+        "type": "Performance",
+        "description": "This cookie helps us analyze website performance and usage."
+      },
+      {
+        "name": "Cookie 13",
+        "type": "Analytics",
+        "description": "This cookie is used for website analytics and tracking."
+      },
+      {
+        "name": "Cookie 14",
+        "type": "Marketing",
+        "description": "This cookie is used for marketing and advertising purposes."
+      }
+  ]
+  
